@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">reForest Control</string>
+
+    <string name="email_login">E-mail</string>
+    <string name="senha_login">Senha</string>
+    <string name="solitar_acesso">Sem acesso? Solicite por aqui!</string>
+    <string name="entrar">Entrar</string>
+
+    <string name="nome_completo">Nome Completo</string>
+    <string name="cpf">CPF</string>
+    <string name="email_cadastro">E-mail</string>
+    <string name="senha_cadastro">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+
+    <string-array name="estados">
+
+        <item>Escolha o Estado</item>
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Distrito Federal</item>
+        <item>Espírito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Paraná</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rondônia</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
+        <item>Suframa</item>
+
+    </string-array>
+
+    <string name="ano">Ano</string>
+
+    <string-array name="anos">
+
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+    </string-array>
+
+</resources>
